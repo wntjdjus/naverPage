@@ -1,0 +1,16 @@
+div{
+    border : 1px solid black;
+    text-align: center;
+}
+div>div{
+    height: 100%;
+}
+.pjs-nav-one{
+    height: 130px;
+}
+.pjs-nav-two{
+    height: 50px;
+}
+.pjs-main{
+    height: 1500px;
+}
