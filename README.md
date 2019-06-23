@@ -6,4 +6,6 @@ HTML로 페이지 껍데기 구현
 
 ### 0623
 
-![상단바](/images/0623 navbar.PNG)
+상단부분 완료
+
+![상단바](images/0623_navbar.PNG)
