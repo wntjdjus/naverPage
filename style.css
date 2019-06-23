@@ -5,12 +5,68 @@ div{
 div>div{
     height: 100%;
 }
+input{
+    border:none;
+    outline: none;
+}
 .pjs-nav-one{
     height: 130px;
 }
 .pjs-nav-two{
     height: 50px;
+    border-top: 1px solid #f1f3f6;
+    border-bottom: 1px solid lightgray;
 }
 .pjs-main{
     height: 1500px;
+    background-color: #f2f4f7;
+}
+.pjs-naver-font{
+    color:#03cf5d;
+}
+.pjs-naver-font-strong{
+    color:#00ab33;
+}
+.pjs-naver-btn{
+    background-color:#03cf5d;
+}
+.pjs-naver-al{
+    font-size: 11px;
+    color: gray;
+}
+.pjs-naver-menu a{
+    font-weight: bold;
+}
+.pjs-naver-menu a:not(.pjs-naver-font){
+    color: black;
+}
+.pjs-naver-advertise-photo-big{
+    height:8%;
+}
+.pjs-naver-news-realtime{
+    height:3%;
+}
+.pjs-naver-news{
+    height:17%;
+}
+.pjs-naver-interesting{
+    height:64%;
+}
+.pjs-naver-advertise-bottom{
+    height: 8%;
+}
+.pjs-naver-user{
+    height: 8%;
+}
+.pjs-naver-english{
+    height: 10%;
+}
+.pjs-naver-advertise-photo-small{
+    height: 10%;
+}
+.pjs-naver-shopping{
+    height: 64%;
+}
+.pjs-naver-advertise-bottom-small{
+    height: 8%;
 }
