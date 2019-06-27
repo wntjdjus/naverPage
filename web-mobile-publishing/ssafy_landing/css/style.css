@@ -210,8 +210,8 @@ button:focus {
 }
 
 .section-1-background {
-  /*background-image: url(../assets/img/section-1-bg-a.jpg);*/
-  background-color: blue;
+  background-image: url(../assets/img/bomi.jpg);
+  /* background-color: blue; */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
